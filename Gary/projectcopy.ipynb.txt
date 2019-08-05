@@ -821,9 +821,6 @@
   },
   {
    "cell_type": "code",
-   <<<<<<< HEAD
-   "execution_count": 44,
-=======
    "execution_count": 22,
    "metadata": {},
    "outputs": [
